@@ -1,8 +1,8 @@
 - 👋 你好，欢迎来到我的主页！
-- 👀 目前我掌握的语言：C、Java、Python、一点点React/Vue
-- 🌱 正在学习的语言：Rust、Go、TypeScript
-- 🛠 正在进行的项目： [TDream AI平台](https://github.com/teexue/tdream)
-- 💞️ 对开源web项目感兴趣，如可以合作请联系我~
+- 👀 目前我掌握的语言：C、Java、Python、Go、TypeScript
+- 🌱 正在学习的语言：Rust
+- 🛠 正在进行的项目： [TFrame 多端统一框架](https://github.com/teexue/tframe)
+- 💞️ 对AI项目感兴趣，如可以合作请联系我~
 - 📫 Email: guclan@teexue.com
 
 <!---
