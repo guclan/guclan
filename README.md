@@ -4,7 +4,7 @@
 - 🛠 正在进行的项目：[TaiASST](https://github.com/teexue/taiasst) [TFrame 多端统一框架](https://github.com/teexue/tframe)
 - 💞️ 对AI项目感兴趣，如可以合作请联系我~
 - 📫 Email: guclan@teexue.com
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guclan)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 guclan/guclan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
